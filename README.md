@@ -9,6 +9,6 @@ This is a purely educatinal code, based on the following articals:
 # building
 make 
 
-# running test
+# running 
 ./blockchain
 
